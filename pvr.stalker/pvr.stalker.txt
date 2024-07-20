@@ -1,1 +1,1 @@
-pvr.stalker https://github.com/kodi-pvr/pvr.stalker Omega
+pvr.stalker https://github.com/kodi-pvr/pvr.stalker Piers
