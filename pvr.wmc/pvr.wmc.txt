@@ -1,1 +1,1 @@
-pvr.wmc https://github.com/kodi-pvr/pvr.wmc Omega
+pvr.wmc https://github.com/kodi-pvr/pvr.wmc Piers
