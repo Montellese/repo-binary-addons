@@ -1,1 +1,1 @@
-visualization.pictureit https://github.com/xbmc/visualization.pictureit Omega
+visualization.pictureit https://github.com/xbmc/visualization.pictureit Piers
