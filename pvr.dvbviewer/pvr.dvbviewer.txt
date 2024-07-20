@@ -1,1 +1,1 @@
-pvr.dvbviewer https://github.com/kodi-pvr/pvr.dvbviewer Omega
+pvr.dvbviewer https://github.com/kodi-pvr/pvr.dvbviewer Piers
