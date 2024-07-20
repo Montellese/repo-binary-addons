@@ -1,1 +1,1 @@
-visualization.fishbmc https://github.com/xbmc/visualization.fishbmc Omega
+visualization.fishbmc https://github.com/xbmc/visualization.fishbmc Piers
