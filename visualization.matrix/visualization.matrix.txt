@@ -1,1 +1,1 @@
-visualization.matrix https://github.com/xbmc/visualization.matrix Omega
+visualization.matrix https://github.com/xbmc/visualization.matrix Piers
