@@ -1,1 +1,0 @@
-pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Omega
