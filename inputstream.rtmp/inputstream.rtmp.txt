@@ -1,1 +1,1 @@
-inputstream.rtmp https://github.com/xbmc/inputstream.rtmp Omega
+inputstream.rtmp https://github.com/xbmc/inputstream.rtmp Piers
