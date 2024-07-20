@@ -1,1 +1,1 @@
-audioencoder.lame https://github.com/xbmc/audioencoder.lame Omega
+audioencoder.lame https://github.com/xbmc/audioencoder.lame Piers
