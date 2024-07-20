@@ -1,1 +1,1 @@
-pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun Omega
+pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun Piers
