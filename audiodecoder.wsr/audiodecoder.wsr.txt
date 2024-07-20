@@ -1,1 +1,1 @@
-audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Omega
+audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Piers
