@@ -1,1 +1,1 @@
-screensaver.stars https://github.com/xbmc/screensaver.stars Omega
+screensaver.stars https://github.com/xbmc/screensaver.stars Piers
