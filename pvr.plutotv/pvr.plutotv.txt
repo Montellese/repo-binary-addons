@@ -1,1 +1,1 @@
-pvr.plutotv https://github.com/kodi-pvr/pvr.plutotv Omega
+pvr.plutotv https://github.com/kodi-pvr/pvr.plutotv Piers
