@@ -1,1 +1,1 @@
-pvr.hts https://github.com/kodi-pvr/pvr.hts Omega
+pvr.hts https://github.com/kodi-pvr/pvr.hts Piers
