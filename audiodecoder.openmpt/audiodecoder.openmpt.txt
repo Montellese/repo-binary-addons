@@ -1,1 +1,1 @@
-audiodecoder.openmpt https://github.com/xbmc/audiodecoder.openmpt Omega
+audiodecoder.openmpt https://github.com/xbmc/audiodecoder.openmpt Piers
