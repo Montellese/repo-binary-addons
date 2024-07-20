@@ -1,1 +1,1 @@
-inputstream.ffmpegdirect https://github.com/xbmc/inputstream.ffmpegdirect Omega
+inputstream.ffmpegdirect https://github.com/xbmc/inputstream.ffmpegdirect Piers
