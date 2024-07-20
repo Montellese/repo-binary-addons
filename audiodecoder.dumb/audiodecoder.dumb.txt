@@ -1,1 +1,1 @@
-audiodecoder.dumb https://github.com/xbmc/audiodecoder.dumb Omega
+audiodecoder.dumb https://github.com/xbmc/audiodecoder.dumb Piers
