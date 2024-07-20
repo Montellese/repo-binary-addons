@@ -1,1 +1,1 @@
-visualization.milkdrop2 https://github.com/xbmc/visualization.milkdrop2 Omega
+visualization.milkdrop2 https://github.com/xbmc/visualization.milkdrop2 Piers
