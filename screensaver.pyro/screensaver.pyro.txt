@@ -1,1 +1,1 @@
-screensaver.pyro https://github.com/xbmc/screensaver.pyro Omega
+screensaver.pyro https://github.com/xbmc/screensaver.pyro Piers
