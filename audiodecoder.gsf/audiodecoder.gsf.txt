@@ -1,1 +1,1 @@
-audiodecoder.gsf https://github.com/xbmc/audiodecoder.gsf Omega
+audiodecoder.gsf https://github.com/xbmc/audiodecoder.gsf Piers
