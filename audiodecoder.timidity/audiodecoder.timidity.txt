@@ -1,1 +1,1 @@
-audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Omega
+audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Piers
