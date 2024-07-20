@@ -1,1 +1,1 @@
-imagedecoder.mpo https://github.com/xbmc/imagedecoder.mpo Omega
+imagedecoder.mpo https://github.com/xbmc/imagedecoder.mpo Piers
