@@ -1,1 +1,1 @@
-pvr.nextpvr https://github.com/kodi-pvr/pvr.nextpvr Omega
+pvr.nextpvr https://github.com/kodi-pvr/pvr.nextpvr Piers
