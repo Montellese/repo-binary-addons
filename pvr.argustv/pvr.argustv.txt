@@ -1,1 +1,1 @@
-pvr.argustv https://github.com/kodi-pvr/pvr.argustv Omega
+pvr.argustv https://github.com/kodi-pvr/pvr.argustv Piers
