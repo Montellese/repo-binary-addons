@@ -1,1 +1,1 @@
-screensaver.asterwave https://github.com/xbmc/screensaver.asterwave Omega
+screensaver.asterwave https://github.com/xbmc/screensaver.asterwave Piers
