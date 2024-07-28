@@ -1,1 +1,1 @@
-pvr.freebox https://github.com/aassif/pvr.freebox Omega
+pvr.freebox https://github.com/aassif/pvr.freebox Piers
