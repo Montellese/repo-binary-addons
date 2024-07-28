@@ -1,1 +1,1 @@
-pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Omega
+pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Piers
