@@ -1,1 +1,1 @@
-pvr.waipu https://github.com/flubshi/pvr.waipu Omega
+pvr.waipu https://github.com/flubshi/pvr.waipu Piers
